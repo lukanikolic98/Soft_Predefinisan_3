@@ -1,2 +1,2 @@
-# Soft_Predefinisan_2
-Soft kompjuting - Predefinisan projekat 2
+# Soft_Predefinisan_3
+Soft kompjuting - Predefinisan projekat 3
